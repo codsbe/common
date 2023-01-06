@@ -16,7 +16,7 @@ import { hasUnauthorizedError, retryWithNewTokens, setAuthorizationHeader } from
  * You should initialize it before using. Most common way to do it is this:
  *
  * ~~~
- * import { Api } from '@atomspace/common/lib/services/api';
+ * import { Api } from '@codsbe/common/lib/services/api';
  *
  * import { API_URL, REFRESH_TOKEN_URL } from '~/constants/env';
  * import { logout, updateTokens } from '~/modules/user/slice';

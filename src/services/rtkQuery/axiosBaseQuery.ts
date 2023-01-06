@@ -22,7 +22,7 @@ export interface AxiosBaseQueryError {
  *
  * Example:
  * ~~~
- * import { axiosBaseQuery } from '@atomspace/common/lib/services/rtkQuery';
+ * import { axiosBaseQuery } from '@codsbe/common/lib/services/rtkQuery';
  * import { createApi } from '@reduxjs/toolkit/query/react';
  *
  * import { TAGS } from '~/services/rtkQuery/utils';
