@@ -1,0 +1,1 @@
+export { getErrorData } from './getErrorData';
